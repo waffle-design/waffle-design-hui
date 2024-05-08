@@ -1,0 +1,9 @@
+# Default ignored files
+node_modules
+dist
+.idea
+
+# Storybook build directory
+storybook-static
+
+*storybook.log
